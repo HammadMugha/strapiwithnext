@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "chategories",
+  "info": {
+    "singularName": "chategory",
+    "pluralName": "chategories",
+    "displayName": "Chategory"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "chategory": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
